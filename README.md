@@ -90,14 +90,10 @@ END
 |                         |                          |
 
 #### Manual Calculations
-
-(Add your calculation here)
-
----
-
-
+<img width="1280" height="451" alt="image" src="https://github.com/user-attachments/assets/25215210-916c-45d7-b6be-329306e3d403" />
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
+<img width="640" height="480" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/21d824d7-a398-4611-93be-450e6aaa8d25" />
+<img width="640" height="480" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/5aa7982c-5107-4cd8-bfd1-35e5aea0ac07" />
 ## 3. MULTIPLICATION
 
 #### Algorithm
