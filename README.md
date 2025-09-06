@@ -60,13 +60,11 @@ END
 |                         |                          |
 
 #### Manual Calculations
-
-(Add your calculation here)
-
----
-
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d59bcec9-2aec-4748-a755-4e27249d891c" />
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="640" height="480" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/17996d0e-80dd-4971-9176-a4bca3c118e6" />
+<img width="640" height="480" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/b60e6831-29b2-4650-b98e-a90ddcdfa8c5" /><img width="640" height="480" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/4ad00dbb-7a10-40a5-a5fc-eb88a8c6c949" />
+
+
 
 
 ## 2. SUBTRACTION
